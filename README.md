@@ -7,6 +7,10 @@ This is my first Power BI portfolio project, created to practice data modeling, 
 The dashboard analyzes automotive sales data and provides insights into revenue, customer performance, product performance, and sales trends through interactive visualizations.
 
 ---
+## Dashboard Screenshot
+
+dashboard.png<img width="1297" height="725" alt="dashboard png" src="https://github.com/user-attachments/assets/67eeddec-08a3-45fe-a311-c93dc92e728f" />
+
 
 ## Tools Used
 
@@ -84,9 +88,6 @@ This allowed easier analysis and better dashboard performance.
 
 ---
 
-## Dashboard Screenshot
-
-dashboard.png<img width="1297" height="725" alt="dashboard png" src="https://github.com/user-attachments/assets/67eeddec-08a3-45fe-a311-c93dc92e728f" />
 
 
 ---
@@ -104,6 +105,13 @@ Through this project I practiced:
 - Power BI Reporting
 
 ---
+
+## Business Recommendations
+
+- SUVs are the strongest revenue driver and should remain a key focus area.
+- Germany and France contribute most sales and represent the strongest markets.
+- Top customers generate a large portion of revenue and should be targeted for retention campaigns.
+- Revenue shows a positive growth trend from 2021 to 2024.
 
 ## Author
 
